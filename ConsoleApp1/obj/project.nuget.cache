@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wRyf3573nNqeJ4rdFGbE9uJ54eJ1f8w0pezNnk2hdpZqLa7gS6WsP79DVrf4/zHBdqk37wKm+Vs7q+UY7ARaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\ConsoleApp1\\ConsoleApp1\\rk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
